@@ -1,0 +1,12 @@
+section {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.section-1 {
+	background-image: url(../img/about-breadcrumb-bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
